@@ -1,0 +1,11 @@
+devenv/
+testenv/
+venv/
+.venv/
+env/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+logs/
+*.log
+employee.json
