@@ -1,0 +1,122 @@
+[
+  {
+    "id": 101,
+    "name": "Flight Control Unit",
+    "type": "FCU",
+    "status": "Operational"
+  },
+  {
+    "id": 102,
+    "name": "Navigational System",
+    "type": "NS",
+    "status": "Operational"
+  },
+  {
+    "id": 103,
+    "name": "Weather Radar",
+    "type": "WXR",
+    "status": "Operational"
+  },
+  {
+    "id": 104,
+    "name": "Air Data Computer",
+    "type": "ADC",
+    "status": "Maintenance"
+  },
+  {
+    "id": 105,
+    "name": "Flight Management System",
+    "type": "FMS",
+    "status": "Operational"
+  },
+  {
+    "id": 106,
+    "name": "Autopilot System",
+    "type": "AP",
+    "status": "Operational"
+  },
+  {
+    "id": 107,
+    "name": "Traffic Collision Avoidance System",
+    "type": "TCAS",
+    "status": "Operational"
+  },
+  {
+    "id": 108,
+    "name": "Ground Proximity Warning System",
+    "type": "GPWS",
+    "status": "Fault"
+  },
+  {
+    "id": 109,
+    "name": "Instrument Landing System",
+    "type": "ILS",
+    "status": "Operational"
+  },
+  {
+    "id": 110,
+    "name": "VHF Communication Radio",
+    "type": "VHF",
+    "status": "Operational"
+  },
+  {
+    "id": 111,
+    "name": "Transponder",
+    "type": "XPDR",
+    "status": "Operational"
+  },
+  {
+    "id": 112,
+    "name": "Inertial Reference System",
+    "type": "IRS",
+    "status": "Maintenance"
+  },
+  {
+    "id": 113,
+    "name": "Global Navigation Satellite System",
+    "type": "GNSS",
+    "status": "Operational"
+  },
+  {
+    "id": 114,
+    "name": "Engine Control Unit",
+    "type": "ECU",
+    "status": "Operational"
+  },
+  {
+    "id": 115,
+    "name": "Fuel Management System",
+    "type": "FUEL",
+    "status": "Operational"
+  },
+  {
+    "id": 116,
+    "name": "Hydraulic Control System",
+    "type": "HYD",
+    "status": "Operational"
+  },
+  {
+    "id": 117,
+    "name": "Electrical Power System",
+    "type": "EPS",
+    "status": "Operational"
+  },
+  {
+    "id": 118,
+    "name": "Cabin Pressure Control",
+    "type": "CPC",
+    "status": "Maintenance"
+  },
+  {
+    "id": 119,
+    "name": "Landing Gear Control Unit",
+    "type": "LGCU",
+    "status": "Operational"
+  },
+  {
+    "id": 120,
+    "name": "Fire Detection System",
+    "type": "FDS",
+    "status": "Operational"
+  }
+]
